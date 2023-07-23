@@ -24,6 +24,7 @@ Para rodar o projeto basta descompactar a pasta.zip e abrir o arquivo index.html
 
 - `HTML`
 - `CSS`
+- `JavaScript`
 
 ## 📢 Informações extras
 
