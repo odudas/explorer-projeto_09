@@ -1,5 +1,5 @@
 # Jogo da Adivinhação
-Stage 04 - Projeto 09: Avançando no JavaScript - Explorer RocketSeat
+Stage 05 - Projeto 09: Avançando no JavaScript - Explorer RocketSeat
 
 ![Imgur](https://i.imgur.com/xZmY3kU.jpg)
 
